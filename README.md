@@ -1,1 +1,1 @@
-This Project made for manage String C-lang Porjects
+This Project made for manage String C Porjects
